@@ -2,7 +2,7 @@ package com.rkukuh.codility_lessons._03.missing_element;
 
 import java.util.HashSet;
 
-class PermMissingElem
+public class PermMissingElem
 {
     @SuppressWarnings("DanglingJavadoc")
     public int solution(int[] A)
