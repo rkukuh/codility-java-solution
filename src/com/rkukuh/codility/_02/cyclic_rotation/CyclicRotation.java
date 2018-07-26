@@ -1,6 +1,6 @@
 package com.rkukuh.codility._02.cyclic_rotation;
 
-class CyclicRotation
+public class CyclicRotation
 {
     public int[] solution(int[] A, int K) {
 

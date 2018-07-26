@@ -2,7 +2,7 @@ package com.rkukuh.codility._04.permutation_check;
 
 import java.util.Arrays;
 
-class PermCheck
+public class PermCheck
 {
     public int solution(int[] A)
     {

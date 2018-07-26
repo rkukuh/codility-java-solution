@@ -1,7 +1,7 @@
 package com.rkukuh.codility._04.missing_integer;
 
 @SuppressWarnings("ALL")
-class MissingInteger
+public class MissingInteger
 {
     public int solution(int[] A)
     {

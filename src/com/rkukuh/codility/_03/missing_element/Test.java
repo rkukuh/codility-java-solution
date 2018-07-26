@@ -1,6 +1,6 @@
 package com.rkukuh.codility._03.missing_element;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {

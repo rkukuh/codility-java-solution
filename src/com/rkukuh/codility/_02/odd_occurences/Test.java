@@ -1,6 +1,6 @@
 package com.rkukuh.codility._02.odd_occurences;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {

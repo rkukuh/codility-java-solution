@@ -2,7 +2,7 @@ package com.rkukuh.codility._02.odd_occurences;
 
 import java.util.HashMap;
 
-class OddOccurrencesInArray
+public class OddOccurrencesInArray
 {
     public int solution(int[] A)
     {

@@ -1,6 +1,6 @@
 package com.rkukuh.codility._04.permutation_check;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {

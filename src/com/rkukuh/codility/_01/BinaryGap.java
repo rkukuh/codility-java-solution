@@ -1,6 +1,6 @@
 package com.rkukuh.codility._01;
 
-class BinaryGap
+public class BinaryGap
 {
     public int solution(int N)
     {

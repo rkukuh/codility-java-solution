@@ -1,6 +1,6 @@
 package com.rkukuh.codility._03.frog_jump;
 
-class FrogJmp
+public class FrogJmp
 {
     public int solution(int X, int Y, int D)
     {

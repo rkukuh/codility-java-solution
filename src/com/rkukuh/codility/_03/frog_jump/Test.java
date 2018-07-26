@@ -1,6 +1,6 @@
 package com.rkukuh.codility._03.frog_jump;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {

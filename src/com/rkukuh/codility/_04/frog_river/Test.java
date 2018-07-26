@@ -1,6 +1,6 @@
 package com.rkukuh.codility._04.frog_river;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {

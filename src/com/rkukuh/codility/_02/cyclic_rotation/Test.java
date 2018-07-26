@@ -1,6 +1,6 @@
 package com.rkukuh.codility._02.cyclic_rotation;
 
-public class Main
+class Test
 {
     @SuppressWarnings("DanglingJavadoc")
     public static void main(String[] args)

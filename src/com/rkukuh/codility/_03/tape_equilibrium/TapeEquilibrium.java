@@ -1,6 +1,6 @@
 package com.rkukuh.codility._03.tape_equilibrium;
 
-class TapeEquilibrium
+public class TapeEquilibrium
 {
     public int solution(int[] A) {
 

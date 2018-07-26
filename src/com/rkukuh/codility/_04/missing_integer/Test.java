@@ -2,7 +2,7 @@ package com.rkukuh.codility._04.missing_integer;
 
 import com.rkukuh.codility._03.missing_element.PermMissingElem;
 
-public class Main
+class Test
 {
     public static void main(String[] args)
     {
