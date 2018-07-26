@@ -1,3 +1,3 @@
-# Codility Lessons in Java
+# Codility Java Solution
 
-### Codility Lessons solution in JAVA 10
+### Codility lessons solution in JAVA 10
