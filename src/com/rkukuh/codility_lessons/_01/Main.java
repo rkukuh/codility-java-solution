@@ -1,4 +1,4 @@
-package com.rkukuh.codilitylessons.binarygap;
+package com.rkukuh.codility_lessons._01;
 
 public class Main
 {

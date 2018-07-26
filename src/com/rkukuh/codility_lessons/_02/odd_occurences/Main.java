@@ -1,4 +1,4 @@
-package com.rkukuh.codilitylessons.oddoccurences;
+package com.rkukuh.codility_lessons._02.odd_occurences;
 
 public class Main
 {
@@ -17,6 +17,6 @@ public class Main
         // The elements at indexes 4 and 6 have value 9,
         // The element at index 5 has value 7 and is unpaired.
 
-        System.out.println(odd.solution(A)); // 7
+        System.out.println(odd.solution(A));
     }
 }
