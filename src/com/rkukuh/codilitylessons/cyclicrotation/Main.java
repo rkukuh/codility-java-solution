@@ -6,7 +6,7 @@ public class Main
     {
         CyclicRotation cr = new CyclicRotation();
 
-        /* Test #1 */
+        /** Test #1 */
 
         int[] A1 = {3, 8, 9, 7, 6};
         int K1 = 3;
@@ -16,12 +16,12 @@ public class Main
 
         for (int cycledArray: cycledArray1) {
 
-            System.out.println(cycledArray);
+            System.out.print(cycledArray);
         }
 
         System.out.println(); // break line
 
-        /* Test #2 */
+        /** Test #2 */
 
         int[] A2 = {0, 0, 0};
         int K2 = 3;
@@ -31,12 +31,12 @@ public class Main
 
         for (int cycledArray: cycledArray2) {
 
-            System.out.println(cycledArray);
+            System.out.print(cycledArray);
         }
 
         System.out.println(); // break line
 
-        /* Test #3 */
+        /** Test #3 */
 
         int[] A3 = {1, 2, 3, 4};
         int K3 = 4;
@@ -46,7 +46,7 @@ public class Main
 
         for (int cycledArray: cycledArray3) {
 
-            System.out.println(cycledArray);
+            System.out.print(cycledArray);
         }
     }
 }

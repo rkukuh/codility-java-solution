@@ -16,6 +16,7 @@ class CyclicRotation
             int lastValue = A[size];
 
             for (int i = 0; i <= size - 1; i++) {
+
                 A[size - i] = A[size - (i + 1)];
             }
 
