@@ -35,6 +35,7 @@ public class GenomicRangeQuery
         int[] results = new int[M];
 
         for (int i = 0; i < M; i++) {
+
             int i0 = P[i];
             int i1 = Q[i];
 
