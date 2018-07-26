@@ -2,6 +2,7 @@ package com.rkukuh.codilitylessons.cyclicrotation;
 
 public class Main
 {
+    @SuppressWarnings("DanglingJavadoc")
     public static void main(String[] args)
     {
         CyclicRotation cr = new CyclicRotation();
