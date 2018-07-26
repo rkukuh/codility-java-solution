@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._03.frog_jump;
+package com.rkukuh.codility._03.frog_jump;
 
 class FrogJmp
 {

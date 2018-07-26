@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._04.missing_integer;
+package com.rkukuh.codility._04.missing_integer;
 
 @SuppressWarnings("ALL")
 class MissingInteger

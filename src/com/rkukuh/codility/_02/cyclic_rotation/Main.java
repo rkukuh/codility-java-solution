@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._02.cyclic_rotation;
+package com.rkukuh.codility._02.cyclic_rotation;
 
 public class Main
 {

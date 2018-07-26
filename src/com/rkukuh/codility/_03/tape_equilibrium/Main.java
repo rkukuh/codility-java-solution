@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._03.tape_equilibrium;
+package com.rkukuh.codility._03.tape_equilibrium;
 
 public class Main
 {

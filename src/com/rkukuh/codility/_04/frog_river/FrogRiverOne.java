@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._04.frog_river;
+package com.rkukuh.codility._04.frog_river;
 
 class FrogRiverOne
 {

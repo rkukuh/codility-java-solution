@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._01;
+package com.rkukuh.codility._01;
 
 class BinaryGap
 {

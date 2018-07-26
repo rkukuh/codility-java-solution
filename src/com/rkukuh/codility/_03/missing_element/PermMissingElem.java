@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._03.missing_element;
+package com.rkukuh.codility._03.missing_element;
 
 import java.util.HashSet;
 

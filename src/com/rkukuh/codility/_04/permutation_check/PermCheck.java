@@ -1,4 +1,4 @@
-package com.rkukuh.codility_lessons._04.permutation_check;
+package com.rkukuh.codility._04.permutation_check;
 
 import java.util.Arrays;
 
