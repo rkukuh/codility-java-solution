@@ -1,6 +1,6 @@
 package com.rkukuh.codility._06.max_product;
 
-public class Test
+class Test
 {
     public static void main(String[] args)
     {
