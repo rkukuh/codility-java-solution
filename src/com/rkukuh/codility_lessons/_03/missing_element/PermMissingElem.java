@@ -2,8 +2,9 @@ package com.rkukuh.codility_lessons._03.missing_element;
 
 import java.util.HashSet;
 
-public class PermMissingElem
+class PermMissingElem
 {
+    @SuppressWarnings("DanglingJavadoc")
     public int solution(int[] A)
     {
         /** Solution #2: PERFORMANCE */
