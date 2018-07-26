@@ -1,6 +1,6 @@
 package com.rkukuh.codility._05.min_avg_slice;
 
-public class Test
+class Test
 {
     public static void main(String[] args)
     {
