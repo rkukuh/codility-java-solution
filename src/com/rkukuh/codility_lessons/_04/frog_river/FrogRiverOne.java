@@ -1,6 +1,6 @@
 package com.rkukuh.codility_lessons._04.frog_river;
 
-public class FrogRiverOne
+class FrogRiverOne
 {
     public int solution(int X, int[] A)
     {
