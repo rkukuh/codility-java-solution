@@ -8,7 +8,7 @@ public class StoneWall
     {
         Stack<Integer> st = new Stack<>();
 
-        int numBlock =0;
+        int numBlock = 0;
 
         for (int aH : H) {
 
