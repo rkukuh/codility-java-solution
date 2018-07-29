@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._03.FrogJump;
+package com.rkukuh.Codility._03_TimeComplexity.FrogJump;
 
 class Test
 {

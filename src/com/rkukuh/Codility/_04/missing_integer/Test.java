@@ -1,6 +1,6 @@
 package com.rkukuh.Codility._04.missing_integer;
 
-import com.rkukuh.Codility._03.MissingElement.PermMissingElem;
+import com.rkukuh.Codility._03_TimeComplexity.MissingElement.PermMissingElem;
 
 class Test
 {

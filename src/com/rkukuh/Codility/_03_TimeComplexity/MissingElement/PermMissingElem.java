@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._03.MissingElement;
+package com.rkukuh.Codility._03_TimeComplexity.MissingElement;
 
 import java.util.HashSet;
 
