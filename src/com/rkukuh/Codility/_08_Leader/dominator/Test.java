@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._08.dominator;
+package com.rkukuh.Codility._08_Leader.dominator;
 
 class Test
 {
