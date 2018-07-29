@@ -1,4 +1,4 @@
-package com.rkukuh.codility._01_Iteration;
+package com.rkukuh.codility._01_Iterations;
 
 class Test
 {
