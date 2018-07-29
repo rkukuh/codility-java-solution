@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._04_CountingElements.missing_integer;
+package com.rkukuh.Codility._04_CountingElements.MissingInteger;
 
 @SuppressWarnings("ALL")
 public class MissingInteger

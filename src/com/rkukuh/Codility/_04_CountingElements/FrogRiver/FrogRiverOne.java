@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._04_CountingElements.frog_river;
+package com.rkukuh.Codility._04_CountingElements.FrogRiver;
 
 public class FrogRiverOne
 {
