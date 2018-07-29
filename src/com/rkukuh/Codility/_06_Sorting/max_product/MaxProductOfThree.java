@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06.max_product;
+package com.rkukuh.Codility._06_Sorting.max_product;
 
 import java.util.Arrays;
 

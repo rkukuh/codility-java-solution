@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06.triangle;
+package com.rkukuh.Codility._06_Sorting.triangle;
 
 import java.util.Arrays;
 

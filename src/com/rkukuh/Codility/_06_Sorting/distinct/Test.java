@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06.distinct;
+package com.rkukuh.Codility._06_Sorting.distinct;
 
 class Test
 {

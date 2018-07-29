@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06.disc_intersection;
+package com.rkukuh.Codility._06_Sorting.disc_intersection;
 
 import java.util.Arrays;
 
