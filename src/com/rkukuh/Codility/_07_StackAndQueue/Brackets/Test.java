@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._07_StackAndQueue.brackets;
+package com.rkukuh.Codility._07_StackAndQueue.Brackets;
 
 class Test
 {

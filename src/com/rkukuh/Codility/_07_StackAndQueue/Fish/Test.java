@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._07_StackAndQueue.fish;
+package com.rkukuh.Codility._07_StackAndQueue.Fish;
 
 class Test
 {
