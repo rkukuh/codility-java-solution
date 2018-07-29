@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._04.max_counters;
+package com.rkukuh.Codility._04_CountingElements.max_counters;
 
 public class MaxCounters
 {

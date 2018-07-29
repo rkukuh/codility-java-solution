@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._04.permutation_check;
+package com.rkukuh.Codility._04_CountingElements.permutation_check;
 
 class Test
 {

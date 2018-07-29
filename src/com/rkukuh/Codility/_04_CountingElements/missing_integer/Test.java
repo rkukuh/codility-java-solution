@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._04.missing_integer;
+package com.rkukuh.Codility._04_CountingElements.missing_integer;
 
 import com.rkukuh.Codility._03_TimeComplexity.MissingElement.PermMissingElem;
 
