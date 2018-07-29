@@ -1,4 +1,4 @@
-package com.rkukuh;
+package com.rkukuh.codility;
 
 class Welcome
 {
