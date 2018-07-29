@@ -20,7 +20,7 @@ class Test
             System.out.print(cycledArray);
         }
 
-        System.out.println(); // break line
+        System.out.println(); // newline
 
         /** Test #2 */
 
@@ -35,7 +35,7 @@ class Test
             System.out.print(cycledArray);
         }
 
-        System.out.println(); // break line
+        System.out.println(); // newline
 
         /** Test #3 */
 
