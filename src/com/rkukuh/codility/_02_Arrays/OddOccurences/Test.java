@@ -1,4 +1,4 @@
-package com.rkukuh.codility._02.OddOccurences;
+package com.rkukuh.codility._02_Arrays.OddOccurences;
 
 class Test
 {

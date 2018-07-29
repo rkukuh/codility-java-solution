@@ -1,4 +1,4 @@
-package com.rkukuh.codility._02.CyclicRotation;
+package com.rkukuh.codility._02_Arrays.CyclicRotation;
 
 class Test
 {
