@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._07.brackets;
+package com.rkukuh.Codility._07_StackAndQueue.brackets;
 
 import java.util.Stack;
 

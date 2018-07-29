@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._07.stone_wall;
+package com.rkukuh.Codility._07_StackAndQueue.stone_wall;
 
 class Test
 {

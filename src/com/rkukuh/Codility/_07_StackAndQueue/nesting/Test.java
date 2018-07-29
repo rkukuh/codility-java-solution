@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._07.nesting;
+package com.rkukuh.Codility._07_StackAndQueue.nesting;
 
 class Test
 {
