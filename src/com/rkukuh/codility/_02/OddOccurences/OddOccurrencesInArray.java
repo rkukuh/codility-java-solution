@@ -1,4 +1,4 @@
-package com.rkukuh.codility._02.odd_occurences;
+package com.rkukuh.codility._02.OddOccurences;
 
 import java.util.HashMap;
 
