@@ -1,4 +1,4 @@
-package com.rkukuh.codility._03.missing_element;
+package com.rkukuh.codility._03.MissingElement;
 
 class Test
 {
