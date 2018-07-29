@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._05.min_avg_slice;
+package com.rkukuh.Codility._05_PrefixSums.min_avg_slice;
 
 public class MinAvgTwoSlice
 {

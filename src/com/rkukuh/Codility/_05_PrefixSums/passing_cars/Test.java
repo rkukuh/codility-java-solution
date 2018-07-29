@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._05.passing_cars;
+package com.rkukuh.Codility._05_PrefixSums.passing_cars;
 
 class Test
 {
