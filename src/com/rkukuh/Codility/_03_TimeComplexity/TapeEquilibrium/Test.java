@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._03_TimeComplexity.tape_equilibrium;
+package com.rkukuh.Codility._03_TimeComplexity.TapeEquilibrium;
 
 class Test
 {
