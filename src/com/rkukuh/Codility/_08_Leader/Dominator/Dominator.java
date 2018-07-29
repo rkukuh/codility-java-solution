@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._08_Leader.dominator;
+package com.rkukuh.Codility._08_Leader.Dominator;
 
 import java.util.HashMap;
 

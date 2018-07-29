@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._08_Leader.equi_leader;
+package com.rkukuh.Codility._08_Leader.EquiLeader;
 
 public class EquiLeader
 {
