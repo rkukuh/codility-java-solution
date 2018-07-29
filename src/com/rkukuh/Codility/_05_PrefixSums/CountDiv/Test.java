@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._05_PrefixSums.count_div;
+package com.rkukuh.Codility._05_PrefixSums.CountDiv;
 
 class Test
 {

@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._05_PrefixSums.genomic_range;
+package com.rkukuh.Codility._05_PrefixSums.GenomicRange;
 
 class Test
 {
