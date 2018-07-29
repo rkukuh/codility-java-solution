@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06_Sorting.max_product;
+package com.rkukuh.Codility._06_Sorting.MaxProduct;
 
 class Test
 {

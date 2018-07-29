@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._06_Sorting.disc_intersection;
+package com.rkukuh.Codility._06_Sorting.DiscIntersections;
 
 class Test
 {
