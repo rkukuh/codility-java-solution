@@ -8,6 +8,6 @@ class Test
 
         int[] A = {3, 2, 6, -1, 4, 5, -1, 2};
 
-        System.out.print(max.solution(A)); // 17
+        System.out.println(max.solution(A)); // 17
     }
 }
