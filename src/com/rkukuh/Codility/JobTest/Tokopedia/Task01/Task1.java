@@ -7,14 +7,8 @@ class Task1
         int product = A * B;
 
         int count = 0;
-
         while (product != 0) {
-
-            if ((product & 1) == 1) {
-
-                count += 1;
-
-            }
+            if ((product & 1) == 1) count += 1;
 
             product = product >> 1;
         }

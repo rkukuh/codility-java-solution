@@ -8,11 +8,6 @@ class Task2
     {
         Arrays.sort(A);
 
-        for(int a : A) {
-            System.out.print(a + " ");
-        }
-        System.out.println();
-
         return A[1] - A[0];
     }
 }
