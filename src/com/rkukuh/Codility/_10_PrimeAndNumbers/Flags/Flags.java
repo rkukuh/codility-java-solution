@@ -25,10 +25,10 @@ class Flags
             int mark = array.get(0);
             boolean success = false;
 
-            for (int i = 0; i < array.size(); i++) {
-                if (array.get(i) >= mark) {
+            for (Integer anArray : array) {
+                if (anArray >= mark) {
                     used++;
-                    mark = array.get(i) + flag;
+                    mark = anArray + flag;
 
                     if (used == flag) {
                         success = true;
