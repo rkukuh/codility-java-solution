@@ -1,4 +1,4 @@
-package com.rkukuh.Codility._09_MaxSliceProblem;
+package com.rkukuh.Codility._09_MaxSliceProblem.MaxDoubleSliceSum;
 
 class Test
 {
