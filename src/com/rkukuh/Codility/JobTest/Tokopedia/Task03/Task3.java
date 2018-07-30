@@ -1,4 +1,4 @@
-package com.rkukuh.Codility.Tokopedia.Task03;
+package com.rkukuh.Codility.JobTest.Tokopedia.Task03;
 
 import java.util.Arrays;
 

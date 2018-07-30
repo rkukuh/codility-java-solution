@@ -1,4 +1,4 @@
-package com.rkukuh.Codility.Tokopedia.Task02;
+package com.rkukuh.Codility.JobTest.Tokopedia.Task02;
 
 class Test
 {
